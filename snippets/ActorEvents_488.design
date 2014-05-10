@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<groups>
+    <group eventID="1" id="0">
+        <event-collide-typetotype comment="false" x="15" y="15">
+            <group eventID="1" id="-1">
+                <play-sound4 comment="false" x="26" y="47">
+                    <int id="0" val="0"/>
+                    <SOUND eid="495" id="1"/>
+                </play-sound4>
+                <print comment="false" x="26" y="74">
+                    <int id="0" val="Bang"/>
+                </print>
+            </group>
+            <ACTORTYPE eid="432" id="0"/>
+            <ACTORTYPE eid="488" id="1"/>
+        </event-collide-typetotype>
+    </group>
+    <group eventID="1" id="-1"/>
+</groups>

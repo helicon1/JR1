@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<groups>
+    <group eventID="1" id="0">
+        <collide comment="false" x="30" y="43">
+            <group eventID="1" id="-1">
+                <set-game-val-2 comment="false" x="41" y="73">
+                    <plus comment="false" id="0" x="0" y="0">
+                        <get-game-val-2 comment="false" id="0" x="0" y="0"/>
+                        <int id="1" val="1"/>
+                    </plus>
+                </set-game-val-2>
+                <die comment="false" x="41" y="103">
+                    <ACTOR eid="this" id="0"/>
+                </die>
+            </group>
+        </collide>
+    </group>
+    <group eventID="1" id="-1">
+        <get-val-225-1 comment="false" x="148" y="48"/>
+    </group>
+</groups>

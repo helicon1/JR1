@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scene depth="3" desc="" eventsnippetid="231" extheight="640" extwidth="3264" extx="-32" exty="-32" format="2.1" gravx="-0.0" gravy="85.0" height="576" id="9" name="Level 4" revision="" savecount="0" tiled="1" tileh="32" tilew="32" type="standard" width="3200">
+    <layers>
+        <layer color="0,255,0" id="2" name="Layer 2" order="0"/>
+        <layer color="0,0,255" id="1" name="Layer 1" order="1"/>
+        <layer color="100,168,234" id="0" name="Layer 0" order="2"/>
+    </layers>
+    <grad-bg b1="255" b2="255" g1="204" g2="255" r1="0" r2="0"/>
+    <backgrounds/>
+    <foregrounds/>
+    <joints/>
+    <regions/>
+    <terrainRegions/>
+    <actors>
+        <actor a="0.0" aid="1" c="false" group="0" id="432" name="Jumper 1" sx="1.0" sy="1.0" x="316" y="512" z="1"/>
+        <actor a="0.0" aid="7" c="false" group="8" id="501" name="Koopa Man 7" sx="1.0" sy="1.0" x="3112" y="5" z="2"/>
+        <actor a="0.0" aid="8" c="false" group="8" id="501" name="Koopa Man 8" sx="1.0" sy="1.0" x="585" y="514" z="2"/>
+        <actor a="0.0" aid="9" c="false" group="3" id="504" name="ddd 9" sx="1.0" sy="1.0" x="3113" y="298" z="2"/>
+        <actor a="0.0" aid="10" c="false" group="3" id="504" name="ddd 10" sx="1.0" sy="1.0" x="3112" y="296" z="2"/>
+        <actor a="0.0" aid="11" c="false" group="3" id="504" name="ddd 11" sx="1.0" sy="1.0" x="3110" y="296" z="2"/>
+        <actor a="0.0" aid="12" c="false" group="3" id="504" name="ddd 12" sx="1.0" sy="1.0" x="3110" y="302" z="2"/>
+        <actor a="0.0" aid="13" c="false" group="3" id="504" name="ddd 13" sx="1.0" sy="1.0" x="3148" y="260" z="2"/>
+        <actor a="0.0" aid="14" c="false" group="3" id="504" name="ddd 14" sx="1.0" sy="1.0" x="3148" y="260" z="2"/>
+        <actor a="0.0" aid="15" c="false" group="3" id="504" name="ddd 15" sx="1.0" sy="1.0" x="3115" y="255" z="2"/>
+        <actor a="0.0" aid="17" c="false" group="3" id="504" name="ddd 17" sx="1.0" sy="1.0" x="3113" y="249" z="2"/>
+        <actor a="0.0" aid="16" c="false" group="3" id="504" name="ddd 16" sx="1.0" sy="1.0" x="3114" y="251" z="2"/>
+        <actor a="0.0" aid="19" c="false" group="3" id="504" name="ddd 19" sx="1.0" sy="1.0" x="3108" y="232" z="2"/>
+        <actor a="0.0" aid="18" c="false" group="3" id="504" name="ddd 18" sx="1.0" sy="1.0" x="3111" y="241" z="2"/>
+        <actor a="0.0" aid="21" c="false" group="3" id="504" name="ddd 21" sx="1.0" sy="1.0" x="3100" y="208" z="2"/>
+        <actor a="0.0" aid="20" c="false" group="3" id="504" name="ddd 20" sx="1.0" sy="1.0" x="3104" y="221" z="2"/>
+        <actor a="0.0" aid="23" c="false" group="3" id="504" name="ddd 23" sx="1.0" sy="1.0" x="3098" y="187" z="2"/>
+        <actor a="0.0" aid="22" c="false" group="3" id="504" name="ddd 22" sx="1.0" sy="1.0" x="3098" y="195" z="2"/>
+        <actor a="0.0" aid="25" c="false" group="3" id="504" name="ddd 25" sx="1.0" sy="1.0" x="3098" y="183" z="2"/>
+        <actor a="0.0" aid="24" c="false" group="3" id="504" name="ddd 24" sx="1.0" sy="1.0" x="3098" y="185" z="2"/>
+        <actor a="0.0" aid="27" c="false" group="3" id="504" name="ddd 27" sx="1.0" sy="1.0" x="3094" y="186" z="2"/>
+        <actor a="0.0" aid="26" c="false" group="3" id="504" name="ddd 26" sx="1.0" sy="1.0" x="3097" y="183" z="2"/>
+        <actor a="0.0" aid="29" c="false" group="3" id="504" name="ddd 29" sx="1.0" sy="1.0" x="3081" y="199" z="2"/>
+        <actor a="0.0" aid="28" c="false" group="3" id="504" name="ddd 28" sx="1.0" sy="1.0" x="3089" y="195" z="2"/>
+        <actor a="0.0" aid="31" c="false" group="3" id="504" name="ddd 31" sx="1.0" sy="1.0" x="3065" y="206" z="2"/>
+        <actor a="0.0" aid="30" c="false" group="3" id="504" name="ddd 30" sx="1.0" sy="1.0" x="3076" y="202" z="2"/>
+        <actor a="0.0" aid="34" c="false" group="3" id="504" name="ddd 34" sx="1.0" sy="1.0" x="3034" y="207" z="2"/>
+        <actor a="0.0" aid="35" c="false" group="3" id="504" name="ddd 35" sx="1.0" sy="1.0" x="3030" y="207" z="2"/>
+        <actor a="0.0" aid="32" c="false" group="3" id="504" name="ddd 32" sx="1.0" sy="1.0" x="3050" y="207" z="2"/>
+        <actor a="0.0" aid="33" c="false" group="3" id="504" name="ddd 33" sx="1.0" sy="1.0" x="3040" y="207" z="2"/>
+        <actor a="0.0" aid="38" c="false" group="3" id="504" name="ddd 38" sx="1.0" sy="1.0" x="3028" y="203" z="2"/>
+        <actor a="0.0" aid="39" c="false" group="3" id="504" name="ddd 39" sx="1.0" sy="1.0" x="3028" y="200" z="2"/>
+        <actor a="0.0" aid="36" c="false" group="3" id="504" name="ddd 36" sx="1.0" sy="1.0" x="3029" y="207" z="2"/>
+        <actor a="0.0" aid="37" c="false" group="3" id="504" name="ddd 37" sx="1.0" sy="1.0" x="3028" y="207" z="2"/>
+        <actor a="0.0" aid="42" c="false" group="3" id="504" name="ddd 42" sx="1.0" sy="1.0" x="3097" y="201" z="2"/>
+        <actor a="0.0" aid="43" c="false" group="3" id="504" name="ddd 43" sx="1.0" sy="1.0" x="3039" y="190" z="2"/>
+        <actor a="0.0" aid="41" c="false" group="3" id="504" name="ddd 41" sx="1.0" sy="1.0" x="3112" y="303" z="2"/>
+        <actor a="0.0" aid="46" c="false" group="3" id="504" name="ddd 46" sx="1.0" sy="1.0" x="3043" y="218" z="2"/>
+        <actor a="0.0" aid="47" c="false" group="3" id="504" name="ddd 47" sx="1.0" sy="1.0" x="3119" y="230" z="2"/>
+        <actor a="0.0" aid="44" c="false" group="3" id="504" name="ddd 44" sx="1.0" sy="1.0" x="3110" y="295" z="2"/>
+        <actor a="0.0" aid="45" c="false" group="3" id="504" name="ddd 45" sx="1.0" sy="1.0" x="3043" y="218" z="2"/>
+        <actor a="0.0" aid="51" c="false" group="3" id="504" name="ddd 51" sx="1.0" sy="1.0" x="3122" y="296" z="2"/>
+        <actor a="0.0" aid="50" c="false" group="3" id="504" name="ddd 50" sx="1.0" sy="1.0" x="3122" y="296" z="2"/>
+        <actor a="0.0" aid="49" c="false" group="3" id="504" name="ddd 49" sx="1.0" sy="1.0" x="3095" y="296" z="2"/>
+        <actor a="0.0" aid="48" c="false" group="3" id="504" name="ddd 48" sx="1.0" sy="1.0" x="3109" y="296" z="2"/>
+        <actor a="0.0" aid="55" c="false" group="3" id="504" name="ddd 55" sx="1.0" sy="1.0" x="3176" y="254" z="2"/>
+        <actor a="0.0" aid="54" c="false" group="3" id="504" name="ddd 54" sx="1.0" sy="1.0" x="3143" y="341" z="2"/>
+        <actor a="0.0" aid="53" c="false" group="3" id="504" name="ddd 53" sx="1.0" sy="1.0" x="3147" y="347" z="2"/>
+        <actor a="0.0" aid="52" c="false" group="3" id="504" name="ddd 52" sx="1.0" sy="1.0" x="3115" y="296" z="2"/>
+        <actor a="0.0" aid="59" c="false" group="3" id="504" name="ddd 59" sx="1.0" sy="1.0" x="2994" y="157" z="2"/>
+        <actor a="0.0" aid="58" c="false" group="3" id="504" name="ddd 58" sx="1.0" sy="1.0" x="2989" y="158" z="2"/>
+        <actor a="0.0" aid="57" c="false" group="3" id="504" name="ddd 57" sx="1.0" sy="1.0" x="2989" y="158" z="2"/>
+        <actor a="0.0" aid="56" c="false" group="3" id="504" name="ddd 56" sx="1.0" sy="1.0" x="3141" y="2" z="2"/>
+        <actor a="0.0" aid="63" c="false" group="3" id="504" name="ddd 63" sx="1.0" sy="1.0" x="3056" y="154" z="2"/>
+        <actor a="0.0" aid="62" c="false" group="3" id="504" name="ddd 62" sx="1.0" sy="1.0" x="3039" y="154" z="2"/>
+        <actor a="0.0" aid="61" c="false" group="3" id="504" name="ddd 61" sx="1.0" sy="1.0" x="3020" y="155" z="2"/>
+        <actor a="0.0" aid="60" c="false" group="3" id="504" name="ddd 60" sx="1.0" sy="1.0" x="3011" y="156" z="2"/>
+        <actor a="0.0" aid="68" c="false" group="3" id="504" name="ddd 68" sx="1.0" sy="1.0" x="3134" y="156" z="2"/>
+        <actor a="0.0" aid="69" c="false" group="3" id="504" name="ddd 69" sx="1.0" sy="1.0" x="3138" y="157" z="2"/>
+        <actor a="0.0" aid="70" c="false" group="3" id="504" name="ddd 70" sx="1.0" sy="1.0" x="3139" y="157" z="2"/>
+        <actor a="0.0" aid="71" c="false" group="3" id="504" name="ddd 71" sx="1.0" sy="1.0" x="3135" y="157" z="2"/>
+        <actor a="0.0" aid="64" c="false" group="3" id="504" name="ddd 64" sx="1.0" sy="1.0" x="3074" y="154" z="2"/>
+        <actor a="0.0" aid="65" c="false" group="3" id="504" name="ddd 65" sx="1.0" sy="1.0" x="3092" y="154" z="2"/>
+        <actor a="0.0" aid="66" c="false" group="3" id="504" name="ddd 66" sx="1.0" sy="1.0" x="3110" y="154" z="2"/>
+        <actor a="0.0" aid="67" c="false" group="3" id="504" name="ddd 67" sx="1.0" sy="1.0" x="3124" y="154" z="2"/>
+        <actor a="0.0" aid="76" c="false" group="3" id="504" name="ddd 76" sx="1.0" sy="1.0" x="2838" y="141" z="2"/>
+        <actor a="0.0" aid="77" c="false" group="3" id="504" name="ddd 77" sx="1.0" sy="1.0" x="2822" y="114" z="2"/>
+        <actor a="0.0" aid="78" c="false" group="3" id="504" name="ddd 78" sx="1.0" sy="1.0" x="2817" y="92" z="2"/>
+        <actor a="0.0" aid="79" c="false" group="3" id="504" name="ddd 79" sx="1.0" sy="1.0" x="2817" y="86" z="2"/>
+        <actor a="0.0" aid="72" c="false" group="3" id="504" name="ddd 72" sx="1.0" sy="1.0" x="3093" y="157" z="2"/>
+        <actor a="0.0" aid="73" c="false" group="3" id="504" name="ddd 73" sx="1.0" sy="1.0" x="3015" y="157" z="2"/>
+        <actor a="0.0" aid="74" c="false" group="3" id="504" name="ddd 74" sx="1.0" sy="1.0" x="2933" y="157" z="2"/>
+        <actor a="0.0" aid="75" c="false" group="3" id="504" name="ddd 75" sx="1.0" sy="1.0" x="2873" y="157" z="2"/>
+        <actor a="0.0" aid="85" c="false" group="3" id="504" name="ddd 85" sx="1.0" sy="1.0" x="3100" y="91" z="2"/>
+        <actor a="0.0" aid="84" c="false" group="3" id="504" name="ddd 84" sx="1.0" sy="1.0" x="3100" y="91" z="2"/>
+        <actor a="0.0" aid="87" c="false" group="3" id="504" name="ddd 87" sx="1.0" sy="1.0" x="3092" y="87" z="2"/>
+        <actor a="0.0" aid="86" c="false" group="3" id="504" name="ddd 86" sx="1.0" sy="1.0" x="3095" y="88" z="2"/>
+        <actor a="0.0" aid="81" c="false" group="3" id="504" name="ddd 81" sx="1.0" sy="1.0" x="2875" y="127" z="2"/>
+        <actor a="0.0" aid="80" c="false" group="3" id="504" name="ddd 80" sx="1.0" sy="1.0" x="2821" y="92" z="2"/>
+        <actor a="0.0" aid="83" c="false" group="3" id="504" name="ddd 83" sx="1.0" sy="1.0" x="2830" y="122" z="2"/>
+        <actor a="0.0" aid="82" c="false" group="3" id="504" name="ddd 82" sx="1.0" sy="1.0" x="2860" y="127" z="2"/>
+        <actor a="0.0" aid="93" c="false" group="3" id="504" name="ddd 93" sx="1.0" sy="1.0" x="3046" y="87" z="2"/>
+        <actor a="0.0" aid="92" c="false" group="3" id="504" name="ddd 92" sx="1.0" sy="1.0" x="3070" y="87" z="2"/>
+        <actor a="0.0" aid="95" c="false" group="3" id="504" name="ddd 95" sx="1.0" sy="1.0" x="3023" y="87" z="2"/>
+        <actor a="0.0" aid="94" c="false" group="3" id="504" name="ddd 94" sx="1.0" sy="1.0" x="3029" y="87" z="2"/>
+        <actor a="0.0" aid="89" c="false" group="3" id="504" name="ddd 89" sx="1.0" sy="1.0" x="3088" y="87" z="2"/>
+        <actor a="0.0" aid="88" c="false" group="3" id="504" name="ddd 88" sx="1.0" sy="1.0" x="3090" y="87" z="2"/>
+        <actor a="0.0" aid="91" c="false" group="3" id="504" name="ddd 91" sx="1.0" sy="1.0" x="3083" y="87" z="2"/>
+        <actor a="0.0" aid="90" c="false" group="3" id="504" name="ddd 90" sx="1.0" sy="1.0" x="3086" y="87" z="2"/>
+        <actor a="0.0" aid="102" c="false" group="3" id="504" name="ddd 102" sx="1.0" sy="1.0" x="3025" y="101" z="2"/>
+        <actor a="0.0" aid="103" c="false" group="3" id="504" name="ddd 103" sx="1.0" sy="1.0" x="3029" y="101" z="2"/>
+        <actor a="0.0" aid="100" c="false" group="3" id="504" name="ddd 100" sx="1.0" sy="1.0" x="3021" y="97" z="2"/>
+        <actor a="0.0" aid="101" c="false" group="3" id="504" name="ddd 101" sx="1.0" sy="1.0" x="3022" y="99" z="2"/>
+        <actor a="0.0" aid="98" c="false" group="3" id="504" name="ddd 98" sx="1.0" sy="1.0" x="3021" y="93" z="2"/>
+        <actor a="0.0" aid="99" c="false" group="3" id="504" name="ddd 99" sx="1.0" sy="1.0" x="3021" y="95" z="2"/>
+        <actor a="0.0" aid="96" c="false" group="3" id="504" name="ddd 96" sx="1.0" sy="1.0" x="3021" y="91" z="2"/>
+        <actor a="0.0" aid="97" c="false" group="3" id="504" name="ddd 97" sx="1.0" sy="1.0" x="3021" y="93" z="2"/>
+        <actor a="0.0" aid="110" c="false" group="3" id="504" name="ddd 110" sx="1.0" sy="1.0" x="3031" y="111" z="2"/>
+        <actor a="0.0" aid="111" c="false" group="3" id="504" name="ddd 111" sx="1.0" sy="1.0" x="3031" y="111" z="2"/>
+        <actor a="0.0" aid="108" c="false" group="3" id="504" name="ddd 108" sx="1.0" sy="1.0" x="3031" y="107" z="2"/>
+        <actor a="0.0" aid="109" c="false" group="3" id="504" name="ddd 109" sx="1.0" sy="1.0" x="3031" y="109" z="2"/>
+        <actor a="0.0" aid="106" c="false" group="3" id="504" name="ddd 106" sx="1.0" sy="1.0" x="3031" y="105" z="2"/>
+        <actor a="0.0" aid="107" c="false" group="3" id="504" name="ddd 107" sx="1.0" sy="1.0" x="3031" y="107" z="2"/>
+        <actor a="0.0" aid="104" c="false" group="3" id="504" name="ddd 104" sx="1.0" sy="1.0" x="3031" y="102" z="2"/>
+        <actor a="0.0" aid="105" c="false" group="3" id="504" name="ddd 105" sx="1.0" sy="1.0" x="3031" y="103" z="2"/>
+        <actor a="0.0" aid="119" c="false" group="3" id="504" name="ddd 119" sx="1.0" sy="1.0" x="3037" y="117" z="2"/>
+        <actor a="0.0" aid="118" c="false" group="3" id="504" name="ddd 118" sx="1.0" sy="1.0" x="3037" y="116" z="2"/>
+        <actor a="0.0" aid="117" c="false" group="3" id="504" name="ddd 117" sx="1.0" sy="1.0" x="3036" y="116" z="2"/>
+        <actor a="0.0" aid="116" c="false" group="3" id="504" name="ddd 116" sx="1.0" sy="1.0" x="3035" y="115" z="2"/>
+        <actor a="0.0" aid="115" c="false" group="3" id="504" name="ddd 115" sx="1.0" sy="1.0" x="3033" y="113" z="2"/>
+        <actor a="0.0" aid="114" c="false" group="3" id="504" name="ddd 114" sx="1.0" sy="1.0" x="3031" y="113" z="2"/>
+        <actor a="0.0" aid="113" c="false" group="3" id="504" name="ddd 113" sx="1.0" sy="1.0" x="3031" y="113" z="2"/>
+        <actor a="0.0" aid="112" c="false" group="3" id="504" name="ddd 112" sx="1.0" sy="1.0" x="3031" y="112" z="2"/>
+        <actor a="0.0" aid="127" c="false" group="3" id="504" name="ddd 127" sx="1.0" sy="1.0" x="3037" y="133" z="2"/>
+        <actor a="0.0" aid="126" c="false" group="3" id="504" name="ddd 126" sx="1.0" sy="1.0" x="3037" y="133" z="2"/>
+        <actor a="0.0" aid="125" c="false" group="3" id="504" name="ddd 125" sx="1.0" sy="1.0" x="3037" y="132" z="2"/>
+        <actor a="0.0" aid="124" c="false" group="3" id="504" name="ddd 124" sx="1.0" sy="1.0" x="3037" y="129" z="2"/>
+        <actor a="0.0" aid="123" c="false" group="3" id="504" name="ddd 123" sx="1.0" sy="1.0" x="3037" y="124" z="2"/>
+        <actor a="0.0" aid="122" c="false" group="3" id="504" name="ddd 122" sx="1.0" sy="1.0" x="3037" y="121" z="2"/>
+        <actor a="0.0" aid="121" c="false" group="3" id="504" name="ddd 121" sx="1.0" sy="1.0" x="3037" y="119" z="2"/>
+        <actor a="0.0" aid="120" c="false" group="3" id="504" name="ddd 120" sx="1.0" sy="1.0" x="3037" y="117" z="2"/>
+        <actor a="0.0" aid="137" c="false" group="3" id="504" name="ddd 137" sx="1.0" sy="1.0" x="3108" y="286" z="2"/>
+        <actor a="0.0" aid="136" c="false" group="3" id="504" name="ddd 136" sx="1.0" sy="1.0" x="3038" y="127" z="2"/>
+        <actor a="0.0" aid="129" c="false" group="3" id="504" name="ddd 129" sx="1.0" sy="1.0" x="3037" y="132" z="2"/>
+        <actor a="0.0" aid="128" c="false" group="3" id="504" name="ddd 128" sx="1.0" sy="1.0" x="3037" y="133" z="2"/>
+        <actor a="0.0" aid="131" c="false" group="3" id="504" name="ddd 131" sx="1.0" sy="1.0" x="3037" y="130" z="2"/>
+        <actor a="0.0" aid="130" c="false" group="3" id="504" name="ddd 130" sx="1.0" sy="1.0" x="3037" y="131" z="2"/>
+        <actor a="0.0" aid="133" c="false" group="3" id="504" name="ddd 133" sx="1.0" sy="1.0" x="3037" y="129" z="2"/>
+        <actor a="0.0" aid="132" c="false" group="3" id="504" name="ddd 132" sx="1.0" sy="1.0" x="3037" y="129" z="2"/>
+        <actor a="0.0" aid="135" c="false" group="3" id="504" name="ddd 135" sx="1.0" sy="1.0" x="3037" y="127" z="2"/>
+        <actor a="0.0" aid="134" c="false" group="3" id="504" name="ddd 134" sx="1.0" sy="1.0" x="3037" y="128" z="2"/>
+    </actors>
+    <snippets/>
+    <terrain>
+        <p pts="4,32.0,0.0,32.0,32.0,0.0,32.0,0.0,0.0" x="2112.0" y="352.0"/>
+        <p pts="4,32.0,0.0,32.0,32.0,0.0,32.0,0.0,0.0" x="1984.0" y="480.0"/>
+        <p pts="4,32.0,0.0,32.0,32.0,0.0,32.0,0.0,0.0" x="1056.0" y="512.0"/>
+        <p pts="4,32.0,0.0,32.0,32.0,0.0,32.0,0.0,0.0" x="1472.0" y="480.0"/>
+        <p pts="4,224.0,0.0,224.0,32.0,0.0,32.0,0.0,0.0" x="448.0" y="544.0"/>
+        <p pts="24,256.0,160.0,288.0,160.0,288.0,96.0,320.0,96.0,320.0,160.0,352.0,160.0,352.0,96.0,384.0,96.0,384.0,224.0,288.0,224.0,288.0,320.0,384.0,320.0,384.0,352.0,0.0,352.0,0.0,96.0,32.0,96.0,32.0,160.0,64.0,160.0,64.0,96.0,96.0,96.0,96.0,160.0,128.0,160.0,128.0,0.0,256.0,0.0" x="0.0" y="224.0"/>
+        <p pts="4,0.0,32.0,0.0,0.0,192.0,0.0,192.0,32.0" x="1184.0" y="544.0"/>
+        <p pts="4,32.0,0.0,32.0,32.0,0.0,32.0,0.0,0.0" x="1120.0" y="448.0"/>
+        <p pts="4,32.0,0.0,32.0,32.0,0.0,32.0,0.0,0.0" x="2720.0" y="384.0"/>
+        <p pts="4,32.0,0.0,32.0,32.0,0.0,32.0,0.0,0.0" x="2208.0" y="256.0"/>
+        <p pts="4,96.0,0.0,96.0,32.0,0.0,32.0,0.0,0.0" x="2400.0" y="544.0"/>
+        <p pts="4,32.0,0.0,32.0,32.0,0.0,32.0,0.0,0.0" x="2624.0" y="480.0"/>
+        <p pts="4,32.0,0.0,32.0,32.0,0.0,32.0,0.0,0.0" x="2752.0" y="352.0"/>
+        <p pts="4,32.0,0.0,32.0,32.0,0.0,32.0,0.0,0.0" x="2688.0" y="416.0"/>
+        <p pts="24,0.0,320.0,32.0,320.0,32.0,384.0,64.0,384.0,64.0,320.0,96.0,320.0,96.0,384.0,128.0,384.0,128.0,256.0,256.0,256.0,256.0,384.0,288.0,384.0,288.0,320.0,320.0,320.0,320.0,384.0,352.0,384.0,352.0,64.0,288.0,64.0,288.0,32.0,352.0,32.0,352.0,0.0,384.0,0.0,384.0,576.0,0.0,576.0" x="2816.0" y="0.0"/>
+        <p pts="4,416.0,0.0,416.0,32.0,0.0,32.0,0.0,0.0" x="1536.0" y="544.0"/>
+        <p pts="4,32.0,0.0,32.0,32.0,0.0,32.0,0.0,0.0" x="1312.0" y="480.0"/>
+        <p pts="4,32.0,0.0,32.0,32.0,0.0,32.0,0.0,0.0" x="2592.0" y="512.0"/>
+        <p pts="4,32.0,0.0,32.0,32.0,0.0,32.0,0.0,0.0" x="2656.0" y="448.0"/>
+        <p pts="4,32.0,0.0,32.0,32.0,0.0,32.0,0.0,0.0" x="736.0" y="448.0"/>
+        <p pts="4,32.0,0.0,32.0,32.0,0.0,32.0,0.0,0.0" x="1760.0" y="480.0"/>
+        <p pts="4,32.0,0.0,32.0,32.0,0.0,32.0,0.0,0.0" x="2176.0" y="288.0"/>
+        <p pts="4,32.0,0.0,32.0,32.0,0.0,32.0,0.0,0.0" x="1568.0" y="448.0"/>
+        <p pts="4,32.0,0.0,32.0,32.0,0.0,32.0,0.0,0.0" x="704.0" y="544.0"/>
+        <p pts="4,0.0,32.0,0.0,0.0,192.0,0.0,192.0,32.0" x="768.0" y="544.0"/>
+        <p pts="4,32.0,0.0,32.0,32.0,0.0,32.0,0.0,0.0" x="2016.0" y="448.0"/>
+        <p pts="4,32.0,0.0,32.0,32.0,0.0,32.0,0.0,0.0" x="2080.0" y="384.0"/>
+        <p pts="4,32.0,0.0,32.0,32.0,0.0,32.0,0.0,0.0" x="2144.0" y="320.0"/>
+        <p pts="4,32.0,0.0,32.0,32.0,0.0,32.0,0.0,0.0" x="2048.0" y="416.0"/>
+    </terrain>
+</scene>

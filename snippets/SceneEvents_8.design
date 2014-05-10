@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<groups>
+    <group eventID="1" id="0">
+        <init comment="false" x="504" y="7">
+            <group eventID="1" id="-1"/>
+        </init>
+    </group>
+    <group eventID="1" id="-1"/>
+    <group eventID="2" id="0">
+        <draw comment="false" x="15" y="15">
+            <group eventID="2" id="-1">
+                <draw-text comment="false" x="26" y="40">
+                    <get-game-val-3 comment="false" id="0" x="0" y="0"/>
+                    <int id="1" val="3"/>
+                    <int id="2" val="3"/>
+                </draw-text>
+            </group>
+        </draw>
+    </group>
+    <group eventID="2" id="-1">
+        <get-val-217-2 comment="false" x="660" y="287"/>
+    </group>
+</groups>

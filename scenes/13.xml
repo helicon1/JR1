@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scene depth="1" desc="" eventsnippetid="249" extheight="1024" extwidth="3232" extx="-32" exty="-32" format="2.1" gravx="-0.0" gravy="85.0" height="960" id="13" name="12" revision="" savecount="0" tiled="1" tileh="32" tilew="32" type="standard" width="3168">
+    <layers>
+        <layer color="100,168,234" id="0" name="Layer 0" order="0"/>
+    </layers>
+    <grad-bg b1="255" b2="255" g1="255" g2="204" r1="0" r2="0"/>
+    <backgrounds/>
+    <foregrounds/>
+    <joints/>
+    <regions/>
+    <terrainRegions/>
+    <actors>
+        <actor a="0.0" aid="1" c="false" group="0" id="432" name="Jumper 1" sx="1.0" sy="1.0" x="185" y="385" z="0"/>
+    </actors>
+    <snippets/>
+    <terrain>
+        <p pts="4,0.0,32.0,0.0,0.0,96.0,0.0,96.0,32.0" x="160.0" y="416.0"/>
+        <p pts="4,0.0,32.0,0.0,0.0,96.0,0.0,96.0,32.0" x="0.0" y="448.0"/>
+        <p pts="6,64.0,448.0,64.0,0.0,96.0,0.0,96.0,480.0,0.0,480.0,0.0,448.0" x="448.0" y="0.0"/>
+    </terrain>
+</scene>
